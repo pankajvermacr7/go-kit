@@ -1,4 +1,4 @@
-module github.com/pankajvermacr7/gokit
+module github.com/pankajvermacr7/go-kit
 
 go 1.22.4
 
